@@ -1,10 +1,8 @@
 # "Deep Learning - From Basics to Practice" by Andrew Glassner
 
-# All Python code and Figures
+## Book available from Amazon at http://TK
 
-## available from Amazon at http://TK
-
-## These repositories contain Jupyter notebooks for all the code in both volumes, and the PNG and JPG sources for all 1000+ figures.
+## Jupyter notebooks and Figures
 
 
 # ABOUT THE CODE 
