@@ -63,6 +63,8 @@
   
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
   
-  Figures:
+### Notebooks for Volume 1:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
+  
+### Notebooks for Volume 2:
   * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
