@@ -44,7 +44,7 @@
      
 # ABOUT THE FIGURES 
 
-  The books are illustrated with roughly 1000 original figures. Most were drawn
+  The book is illustrated with roughly 1000 original figures. Most were drawn
   by the author in Adobe Illustrator. A few were drawn in Photoshop. 
   
   Some figures include photographs. CMany of these are by the author. All other
