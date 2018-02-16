@@ -1,6 +1,6 @@
 # Python/Jupyter notebooks for Volume 1 of "Deep Learning - From Basics to Practice" by Andrew Glassner
 
-##available from Amazon at http://TK
+## available from Amazon at http://TK
 
 ## These repositories contain Jupyter notebooks for all the code in both volumes, and the PNG and JPG sources for all 1000+ figures.
 
