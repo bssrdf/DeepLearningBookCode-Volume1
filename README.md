@@ -1,6 +1,6 @@
 # DeepLearningBookCode-Volume1
-Python/Jupyter notebooks for Volume 1 of
-"Deep Learning - From Basics to Practice" by Andrew Glassner
+# Python/Jupyter notebooks for Volume 1 of
+# "Deep Learning - From Basics to Practice" by Andrew Glassner
 
 available from Amazon at http://TK
 
