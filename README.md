@@ -1,17 +1,11 @@
-# DeepLearningBookCode-Volume1
-# Python/Jupyter notebooks for Volume 1 of
-# "Deep Learning - From Basics to Practice" by Andrew Glassner
+# Python/Jupyter notebooks for Volume 1 of "Deep Learning - From Basics to Practice" by Andrew Glassner
 
-available from Amazon at http://TK
+##available from Amazon at http://TK
 
-********************************
-*** These repositories contain Jupyter notebooks for all the code in 
-*** both volumes, and the PNG and JPG sources for all 1000+ figures.
-********************************
+## These repositories contain Jupyter notebooks for all the code in both volumes, and the PNG and JPG sources for all 1000+ figures.
 
-********************************
-******** ABOUT THE CODE ******** 
-********************************
+
+# ABOUT THE CODE 
 
   Only three chapters in the book present code in the discussion. Chapter 15 discusses
   the Scikit-Learn library, and Chapters 23 and 24 discuss the Keras library. All of
@@ -43,12 +37,10 @@ available from Amazon at http://TK
   The code for Volumes 1 and 2 are each in their own GitHub repo:
   
   Code:
-     https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
-     https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
+       * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
+       * https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
      
-***********************************
-******** ABOUT THE FIGURES ******** 
-***********************************
+# ABOUT THE FIGURES 
 
   The books are illustrated with roughly 1000 original figures. Most were drawn
   by the author in Adobe Illustrator. A few were drawn in Photoshop. 
@@ -70,5 +62,5 @@ available from Amazon at http://TK
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
   
   Figures:
-     https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
-     https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
+       * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
+       * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
