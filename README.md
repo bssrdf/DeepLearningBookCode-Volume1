@@ -37,8 +37,8 @@
   The code for Volumes 1 and 2 are each in their own GitHub repo:
   
   Code:
-       * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
-       * https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
+  * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
+  * https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
      
 # ABOUT THE FIGURES 
 
@@ -62,5 +62,5 @@
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
   
   Figures:
-       * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
-       * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
+  * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume1
+  * https://github.com/blueberrymusic/DeepLearningBookFigures-Volume2
