@@ -30,7 +30,7 @@
   
   Some notebooks work with images. The images I used in the book are included
   with the notebooks. See the section below on Figures for details on their
-  licensing, and see the book for the URL where they were found. All images
+  licensing, and see the book for the URL where each image may be found. All images
   without an explicit citation in the book are by the author, and are released
   under the MIT license.
   
