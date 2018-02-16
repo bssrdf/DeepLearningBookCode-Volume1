@@ -36,8 +36,10 @@
   
   The code for Volumes 1 and 2 are each in their own GitHub repo:
   
-  Code:
+### Notebooks for Volume 1:
   * https://github.com/blueberrymusic/DeepLearningBookCode-Volume1
+  
+### Notebooks for Volume 2:
   * https://github.com/blueberrymusic/DeepLearningBookCode-Volume2
      
 # ABOUT THE FIGURES 
