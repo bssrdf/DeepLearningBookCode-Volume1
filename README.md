@@ -5,9 +5,9 @@
 ## Jupyter notebooks and Figures
 
 
-# ABOUT THE CODE 
+# ABOUT THE NOTEBOOKS 
 
-  Only three chapters in the book present code in the discussion. Chapter 15 discusses
+  Only three chapters in the book contain explicit code. Chapter 15 discusses
   the Scikit-Learn library, and Chapters 23 and 24 discuss the Keras library. All of
   the code in these chapters is in Python, and is provided in Jupyter notebooks.
   
