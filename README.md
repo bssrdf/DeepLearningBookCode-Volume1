@@ -47,7 +47,7 @@
   The book is illustrated with roughly 1000 original figures. Most were drawn
   by the author in Adobe Illustrator. A few were drawn in Photoshop. 
   
-  Some figures include photographs. CMany of these are by the author. All other
+  Some figures include photographs. Many of these are by the author. All other
   photos are from Wikiart, Wikimedia, or Pixabay. The book provides a citation
   and URL to the source of each of these images. The first two sites state that
   their images are in the public domain. All images selected from Pixabay are 
