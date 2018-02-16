@@ -45,7 +45,14 @@
 # ABOUT THE FIGURES 
 
   The book is illustrated with roughly 1000 original figures. Most were drawn
-  by the author in Adobe Illustrator. A few were drawn in Photoshop. 
+  by the author in Adobe Illustrator. A few were drawn in Photoshop.
+  
+  All of these figures are released under the MIT license, like the code. This
+  means you're free to use them any way you like, as long as you keep the 
+  copyright associated with them somehow. 
+  
+  You're not required to attribute me or the book if you use these images, 
+  but I'd appreciate it if you would. 
   
   Some figures include photographs. Many of these are by the author. All other
   photos are from Wikiart, Wikimedia, or Pixabay. The book provides a citation
@@ -53,13 +60,6 @@
   their images are in the public domain. All images selected from Pixabay are 
   labeled as released under the Creative Commons CC0 license, and explicitly
   state, "Free for commercial use. No attribution required."
-  
-  All of these figures are released under the MIT license, like the code. This
-  means you're free to use them any way you like, as long as you keep the 
-  copyright associated with them somehow. 
-  
-  You're not required to attribute me or the book if you use these images, 
-  but I'd appreciate it if you would.
   
   The figures for Volumes 1 and 2 are each in their own GitHub repo:
   
