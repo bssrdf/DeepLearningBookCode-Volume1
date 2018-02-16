@@ -47,6 +47,10 @@
   The book is illustrated with roughly 1000 original figures. Most were drawn
   by the author in Adobe Illustrator. A few were drawn in Photoshop.
   
+  Most of these images are saved at high resolution (300 dpi or better), so
+  they are appropriate for presentaitons and talks even when projected
+  to large size.
+  
   All of these figures are released under the MIT license, like the code. This
   means you're free to use them any way you like, as long as you keep the 
   copyright associated with them somehow. 
